@@ -5,6 +5,7 @@ ruby "3.0.0"
 gem 'devise'
 gem 'stripe'
 gem 'dotenv'
+gem 'httparty'
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 
